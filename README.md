@@ -29,4 +29,4 @@
 
     return 0;
     }
-    ![img](https://raw.githubusercontent.com/BambangPriam/Menampilkan-Angka-1-10-Menggunakan-Looping/master/Menampilkan%20Angka%201-10%20Menggunakan%20Looping.png)
+   ![img](https://raw.githubusercontent.com/BambangPriam/Menampilkan-Angka-1-10-Menggunakan-Looping/master/Menampilkan%20Angka%201-10%20Menggunakan%20Looping.png)
